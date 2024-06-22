@@ -5,7 +5,7 @@ function HomePage() {
   return (
     <>
       <Navbar />
-      <p>hello react query</p>
+      <p>hello react query and git hub</p>
       <Footer />
     </>
   );
