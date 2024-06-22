@@ -10,7 +10,7 @@ function HomePage() {
       <Habibollahi />
       <p>hello react query and git hub</p>
       <SubHeader />
-      <p>hello react query</p>
+      <p>salam react query</p>
       <Footer />
     </>
   );
