@@ -1,9 +1,7 @@
-import FormForm from '@/components/Form';
-
 function HomePage() {
   return (
     <>
-      <FormForm />
+      <p>hello react query</p>
     </>
   );
 }
